@@ -13,6 +13,6 @@ My field of expertise include __Backend Website Development__.
 ## Get in Touch
   
   :blue_heart:Connect with me via [LinkedIn](https://www.linkedin.com/in/ashish-kumar-1403051b4/)<br/>
-  :e-mail:Send me Email(mailto:ak.19U10075@btech.nitdgp.ac.in)
+  :e-mail:Or you can just [e-mail](mailto:ak.19U10075@btech.nitdgp.ac.in) me.
   
 
