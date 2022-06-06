@@ -2,7 +2,7 @@
 
 ## Welcome to my Github account 😀
 
-I'm a sophomore in Computer Science and Engineering at __National Institute of Technology, Durgapur__.<br/>
+I'm a Senior in Computer Science and Engineering at __National Institute of Technology, Durgapur__.<br/>
 My field of expertise include __Backend Website Development__.
 
 ### My Interests
