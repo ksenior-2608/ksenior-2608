@@ -8,7 +8,7 @@ My field of expertise include __Backend Website Development__.
 ### My Interests
 
 * I'm a __Competitive Coder__ and here is my Codechef Profile: [ksenior2608](https://www.codechef.com/users/ksenior2608)
-* :pencil2:I'm currently working on __App Development__ and improvising my problem solving skills.
+* :pencil2:I'm currently working on __AWS__ and improvising my problem solving skills.
 
 ### Get in Touch
   
